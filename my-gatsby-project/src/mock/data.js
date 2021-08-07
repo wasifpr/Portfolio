@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Farooqui Mohd Wasif',
-  subtitle: 'Full Stack Web developer',
+  subtitle: 'FullStack Web developer and Designer',
   cta: '',
 };
 
